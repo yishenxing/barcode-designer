@@ -1,0 +1,2 @@
+edit distance distribution: [(5, 2), (6, 24), (7, 218), (8, 1296), (9, 5076), (10, 14219), (11, 27609), (12, 34893), (13, 26915), (14, 11518), (15, 2646), (16, 315), (17, 18), (18, 1)]
+error type: {'GC rate error': 1821, 'polymer error': 8483, 'repeat error': 118, 'inner pair error': 823, 'outer pair error': 3585, 'editDistance error': 323}
