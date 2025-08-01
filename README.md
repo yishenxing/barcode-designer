@@ -91,8 +91,8 @@ Generate a set of 96 barcodes, each 12 bp long, with:
 - No specific 3-mer repeats like "GC" or "TA"
 - No self-complementary sequences of length >= 4 (to avoid hairpins)
 - No 8-bp overlapping subsequences across barcodes
-- A minimum edit distance of 8 between any two barcodes
-- 5000 candidate barcodes initially generated
+- A minimum edit distance of 9 between any two barcodes
+- 500 candidate barcodes initially generated
 - at least 96 final barcodes after filtering
 - Using 16 parallel processes
 ```bash
